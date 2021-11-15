@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Tue Apr 13 15:17:15 2021
+# Process ID: 11196
+# Current directory: C:/Users/Victor Hui/Desktop/vga_moving_block/vga_moving_block.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/Victor Hui/Desktop/vga_moving_block/vga_moving_block.sim/sim_1/behav/xsim/xsim.dir/vga_top_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Victor Hui/Desktop/vga_moving_block/vga_moving_block.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/Victor Hui/Desktop/vga_moving_block/vga_moving_block.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Victor -notrace
+couldn't read file "C:/Users/Victor": no such file or directory
+INFO: [Common 17-206] Exiting Webtalk at Tue Apr 13 15:17:15 2021...

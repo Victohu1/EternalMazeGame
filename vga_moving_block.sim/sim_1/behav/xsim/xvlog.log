@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Victor Hui/Desktop/vga_moving_block/src/block_controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module block_controller
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Victor Hui/Desktop/vga_moving_block/src/display_controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module display_controller
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Victor Hui/Desktop/vga_moving_block/src/vga_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vga_top
